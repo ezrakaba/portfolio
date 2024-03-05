@@ -6,94 +6,191 @@ tag: web development
 author: You
 ---
 
-# Markdown Examples
+[Types of Resources](https://www.notion.so/e98834d2414e44d8b19c47ad955da953?pvs=21)
 
-## h2 Heading
+## Mental Health Statistics
 
-### h3 Heading
+<aside>
+<img src="https://super.so/icon/dark/percent.svg" alt="https://super.so/icon/dark/percent.svg" width="40px" /> **19.86%** of Adults experience a mental illness
 
-#### h4 Heading
+</aside>
 
-##### h5 Heading
+<aside>
+<img src="https://super.so/icon/dark/percent.svg" alt="https://super.so/icon/dark/percent.svg" width="40px" /> **4.91%** are experiencing *severe* mental illness
 
-###### h6 Heading
+</aside>
 
-## Emphasis
+> According to SAMHSA, Any Mental Illness (AMI) is defined as having a diagnosable mental, behavioral, or emotional disorder, other than a developmental or substance use disorder. Any mental illness includes persons who have mild mental illness, moderate mental illness, and serious mental illness.”
+> 
 
-**This is bold text**
+<aside>
+<img src="https://super.so/icon/dark/percent.svg" alt="https://super.so/icon/dark/percent.svg" width="40px" /> **7.74%** of adults in America reported having a substance use disorder in the past year
 
-_This is italic text_
+</aside>
 
-~~Strikethrough~~
+<aside>
+<img src="https://super.so/icon/dark/percent.svg" alt="https://super.so/icon/dark/percent.svg" width="40px" /> **2.97%** of adults in America reported having an illicit drug use disorder in the past year
 
-## Blockquotes
+</aside>
 
-> Develop. Preview. Ship. – Vercel
+<aside>
+<img src="https://super.so/icon/dark/percent.svg" alt="https://super.so/icon/dark/percent.svg" width="40px" /> **5.71%** of adults in America reported having an alcohol use disorder in the past year
 
-## Lists
+</aside>
 
-Unordered
+> Substance use disorders occur when the recurrent use of alcohol and/or drugs causes clinically significant impairment, including health problems, disability, and failure to meet major responsibilities at work, school, or home
+> 
 
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Integer molestie lorem at massa
+<aside>
+<img src="https://super.so/icon/dark/percent.svg" alt="https://super.so/icon/dark/percent.svg" width="40px" /> Over half (**56%)** of adults with a mental illness receive no treatment - **Over 27 million individuals experiencing a mental illness are going untreated.**
 
-Ordered
+</aside>
 
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
+## Types of Treatment
 
-## Code
+### Medication
 
-Inline `code`
+> Although psychiatric medications don't cure mental illness, they can often significantly improve symptoms. Psychiatric medications can also help make other treatments, such as psychotherapy, more effective. The best medications for you will depend on your particular situation and how your body responds to the medication.
+> 
+> 
+> <aside>
+> <img src="https://super.so/icon/dark/chevrons-right.svg" alt="https://super.so/icon/dark/chevrons-right.svg" width="40px" /> **Antidepressants**
+> 
+> Antidepressants are used to treat depression, anxiety and sometimes other conditions. They can help improve symptoms such as sadness, hopelessness, lack of energy, difficulty concentrating and lack of interest in activities.
+> 
+> </aside>
+> 
+> <aside>
+> <img src="https://super.so/icon/dark/chevrons-right.svg" alt="https://super.so/icon/dark/chevrons-right.svg" width="40px" /> **Anti-anxiety medications**
+> 
+> These drugs are used to treat anxiety disorders, such as generalized anxiety disorder or panic disorder. They may also help reduce agitation and insomnia.
+> 
+> </aside>
+> 
+> <aside>
+> <img src="https://super.so/icon/dark/chevrons-right.svg" alt="https://super.so/icon/dark/chevrons-right.svg" width="40px" /> **Mood-stabilizing medications**
+> 
+> Mood stabilizers are most commonly used to treat bipolar disorders, which involves alternating episodes of mania and depression.
+> 
+> </aside>
+> 
+> <aside>
+> <img src="https://super.so/icon/dark/chevrons-right.svg" alt="https://super.so/icon/dark/chevrons-right.svg" width="40px" /> **Antipsychotic medications**
+> 
+> Antipsychotic drugs are typically used to treat psychotic disorders, such as schizophrenia. Antipsychotic medications may also be used to treat bipolar disorders or used with antidepressants to treat depression.
+> 
+> </aside>
+> 
 
-```js
-export default function Nextra({ Component, pageProps }) {
-  return (
-    <>
-      <Head>
-        <link
-          rel="alternate"
-          type="application/rss+xml"
-          title="RSS"
-          href="/feed.xml"
-        />
-        <link
-          rel="preload"
-          href="/fonts/Inter-roman.latin.var.woff2"
-          as="font"
-          type="font/woff2"
-          crossOrigin="anonymous"
-        />
-      </Head>
-      <Component {...pageProps} />
-    </>
-  )
-}
-```
+### Psychotherapy
 
-## Tables
+> Psychotherapy, also called talk therapy, involves talking about your condition and related issues with a mental health professional. During psychotherapy, you learn about your condition and your moods, feelings, thoughts and behavior. With the insights and knowledge you gain, you can learn coping and stress management skills.
+> 
+> 
+> There are many types of psychotherapy, each with its own approach to improving your mental well-being. Psychotherapy often can be successfully completed in a few months, but in some cases, long-term treatment may be needed. It can take place one-on-one, in a group or with family members.
+> 
+> <aside>
+> <img src="https://super.so/icon/dark/chevrons-right.svg" alt="https://super.so/icon/dark/chevrons-right.svg" width="40px" /> **Cognitive Behavioral Therapy (CBT)**
+> 
+> Cognitive Behavioral Therapy is a short-term, goal-oriented therapy that focuses on the link between our thoughts (cognition) and our actions (behavior). It is intended to help people change thought patterns that cause unhealthy, unproductive, or incapacitating behavior.
+> 
+> </aside>
+> 
+> <aside>
+> <img src="https://super.so/icon/dark/chevrons-right.svg" alt="https://super.so/icon/dark/chevrons-right.svg" width="40px" /> **Dialectical Behavior Therapy (DBT)**
+> 
+> DBT differs from CBT in that it teaches you that your experiences are real and shows how to accept yourself. The treatment usually consists of both one-on-one sessions and therapist-led group sessions where the participants develop and practice skills and behaviors needed for a more manageable daily life.
+> 
+> </aside>
+> 
+> <aside>
+> <img src="https://super.so/icon/dark/chevrons-right.svg" alt="https://super.so/icon/dark/chevrons-right.svg" width="40px" /> **Acceptance and Commitment Therapy (ACT)**
+> 
+> ACT is an action-oriented approach where you learn to stop avoiding, denying, and struggling with your inner emotions and, instead, accept that these deeper feelings are appropriate responses to certain situations that should not prevent them from moving forward. With this understanding, you begin to accept your hardships and commit to making necessary changes in behavior, regardless of what is going on in life.
+> 
+> </aside>
+> 
 
-| **Option** | **Description**                                                                                                             |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------- |
-| First      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Second     | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
-| Third      | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+### Treatment Programs
 
-## Links
+> Treatment and care for mental health-related issues is provided in a variety of settings. The environment, and level or type of care, will depend on multiple factors: the nature and severity of the person’s mental condition, their physical health, and the type of treatment prescribed or indicated.
+> 
+> 
+> <aside>
+> <img src="https://super.so/icon/dark/chevrons-right.svg" alt="https://super.so/icon/dark/chevrons-right.svg" width="40px" /> **Hospital Inpatient**
+> 
+> Hospital inpatient settings involve an overnight or longer stay in a psychiatric hospital or psychiatric unit of a general hospital. Inpatient hospitals provide treatment to more severely ill mental health patients, usually for less than 30 days. A person admitted to an inpatient setting might be in the acute phase of a mental illness and need help around the clock.
+> 
+> </aside>
+> 
+> <aside>
+> <img src="https://super.so/icon/dark/chevrons-right.svg" alt="https://super.so/icon/dark/chevrons-right.svg" width="40px" /> **Residential Treatment**
+> 
+> Psychiatric residential centers are tailored to people with a chronic psychiatric disorder, such as schizophrenia or bipolar disorder, or who have a dual diagnosis (i.e., a mental disorder and substance abuse problems), which impairs their ability to function independently.
+> 
+> </aside>
+> 
+> <aside>
+> <img src="https://super.so/icon/dark/chevrons-right.svg" alt="https://super.so/icon/dark/chevrons-right.svg" width="40px" /> **Partial hospitalization programs (PHPs)**
+> 
+> PHPs, also called “day programs,” refer to outpatient programs that patients attend for six or more hours a day, every day or most days of the week. These programs, which are less intensive than inpatient hospitalization, may focus on psychiatric illnesses and/or substance abuse.
+> 
+> </aside>
+> 
+> <aside>
+> <img src="https://super.so/icon/dark/chevrons-right.svg" alt="https://super.so/icon/dark/chevrons-right.svg" width="40px" /> **Intensive outpatient programs (IOPs)**
+> 
+> IOPs ****are similar to PHPs, but are only attended for three to four hours and often meet during evening hours to accommodate persons who are working.
+> 
+> </aside>
+> 
 
-- [Next.js](https://nextjs.org)
-- [Nextra](https://nextra.vercel.app/)
-- [Vercel](http://vercel.com)
+## Maintaining a Healthy Lifestyle
 
-### Footnotes
+> **Mental health is part of overall health**. Just like we can’t be well without good mental health, we can’t be healthy if we neglect the rest of our body. When dealing with a mental health condition it can be easy to fall into a rut, relying solely on medication or therapy to be your cure and forgetting to take good care of your body. However, paying attention to lifestyle choices is important for recovery as well.
+> 
 
-- Footnote [^1].
-- Footnote [^2].
+<aside>
+<img src="https://super.so/icon/dark/star.svg" alt="https://super.so/icon/dark/star.svg" width="40px" /> **Get Active**
 
-[^1]: Footnote **can have markup**
+Engage in any type of physical activity for at least 20 minutes a day
 
-    and multiple paragraphs.
+</aside>
 
-[^2]: Footnote text.
+<aside>
+<img src="https://super.so/icon/dark/star.svg" alt="https://super.so/icon/dark/star.svg" width="40px" /> **Eat Healthy**
+
+People experiencing mental health conditions in particular should aim for a diet low in refined sugar as research has shown that a diet high in refined sugar is associated with worsening symptoms
+
+</aside>
+
+<aside>
+<img src="https://super.so/icon/dark/star.svg" alt="https://super.so/icon/dark/star.svg" width="40px" /> **Practice Mindfulness**
+
+Mindfulness practices can help relieve stress, improve sleep, and reduce chronic pain, blood pressure and symptoms of heart disease
+
+</aside>
+
+<aside>
+<img src="https://super.so/icon/dark/star.svg" alt="https://super.so/icon/dark/star.svg" width="40px" /> **Sleep Hygiene**
+
+Optimizing your sleep schedule, pre-bed routine, and daily routines is part of harnessing habits to make quality sleep feel more automatic. At the same time, creating a pleasant bedroom environment can be an invitation to relax and doze off
+
+</aside>
+
+<aside>
+<img src="https://super.so/icon/dark/star.svg" alt="https://super.so/icon/dark/star.svg" width="40px" /> **Have a Good Support System**
+
+Since dealing with one of these illnesses can already be tough it’s important to find a support system that you can rely on. Being able to talk to a trusted friend, family member, support group or mentor can provide relief and assistance in times of need
+
+</aside>
+
+---
+
+## **Signs and Symptoms**
+
+[DSM 5](https://www.notion.so/7a4d99024d284b4a9a7339746d25cb99?pvs=21)
+
+## **Resource List**
+
+[MH Resources](https://www.notion.so/3b1f800f4d04457e8b589268e4d18260?pvs=21)
